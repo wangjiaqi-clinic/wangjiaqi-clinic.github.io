@@ -1,25 +1,18 @@
 # Site Settings
 url: https://wangjiaqi-clinic.github.io
-title: Peiqin Lin's Homepage
-subtitle: "Software is like sex: it's better when it's free."
-description: "Peiqin Lin's Homepage"
-keywords: 林佩勤, Peiqin Lin, 半截小丑, lpq29743
+title: Jiaqi Wang's Homepage
+description: "Jiaqi Wang's Homepage"
+keywords: 王嘉淇, Jiaqi Wang
 timezone: Asia/Shanghai
 encoding: "utf-8"
-SEOTitle: Peiqin Lin's Homepage
+SEOTitle: Jiaqi Wang's Homepage
 repository: wangjiaqi-clinic/wangjiaqi-clinic.github.io
 
 # Author Settings
-author: Peiqin Lin
-github_username: Wang-jiaqi
-location: Guangdong, China
-email: lpq29743@gmail.com
-
-# Navigation Settings
-navs:
-  -
-    href: 
-    label: Home
+author: Jiaqi Wang
+github_username: wangjiaqi-clinic
+location: Wuhan, China
+email: jiaqiwangclinic@gmail.com
 
 # RSS Settings
 RSS: true
