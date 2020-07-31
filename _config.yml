@@ -1,5 +1,5 @@
 # Site Settings
-url: https://Wang-jiaqi.github.io
+url: https://wang-jiaqi.github.io
 title: Peiqin Lin's Homepage
 subtitle: "Software is like sex: it's better when it's free."
 description: "Peiqin Lin's Homepage"
@@ -20,15 +20,6 @@ navs:
   -
     href: 
     label: Home
-  -
-    href: /category
-    label: Category
-  -
-    href: /wiki
-    label: Wiki
-  -
-    href: /project
-    label: Project
 
 # RSS Settings
 RSS: true
