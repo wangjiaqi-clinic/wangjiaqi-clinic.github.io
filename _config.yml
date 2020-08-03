@@ -34,3 +34,5 @@ kramdown:
     input: GFM
 mathjax: true
 
+
+theme: jekyll-theme-time-machine
