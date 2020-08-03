@@ -35,4 +35,4 @@ kramdown:
 mathjax: true
 
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-slate
