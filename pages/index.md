@@ -22,35 +22,19 @@ I really want to contribute myself for improving the health of the elderly as we
 ### Education
 
 - 08/2020-06/2021. The Hong Kong Polytechnic University. Master of Science. Nutrition and Healthy Aging                               
-- 09/2015-06/2020
-
-  Hubei University of Chinese Medicine
-                   First Clinical College
-                   Bachelor of medicine
-                   Clinical Discipline of Chinese and Western Integrative Medicine
-                   GPA Ranking top10%
+- 09/2015-06/2020. Hubei University of Chinese Medicine. First Clinical College. Bachelor of Medicine. Clinical Discipline of Chinese and Western Integrative Medicine. GPA Ranking Top 10%
 
 ### Publications & Manuscripts
 
 #### Publications
 
-TBDChenJiarong1 Wangjiaqi1 QianJingyi2 MBNL1 Suppressed Cancer Metastatic of Skin Squamous Cell Carcinoma via by TIAL1/MYOD1/Caspase-9/3 Signaling Pathways will be published in Journal of Cancer Education
-
-ChenJiarong1 Wangjiaqi1 Huangzheng2 Mechanisms of Lycium Barbarum Polysaccharide Inhibiting the Proliferation of Skin Squamous Cell Carcinoma A431 by Downregulating miR-365
-
-Wangjiaqi1 Tanghao1 Exploring the clinical value of warming Yang, invigorating qi and activating blood circulation and TCM adjuvant therapy for primary hypothyroidism in Medical and Health
+- Jiarong Chen; **Jiaqi Wang**; Jingyi Qian. MBNL1 Suppressed Cancer Metastatic of Skin Squamous Cell Carcinoma via by TIAL1/MYOD1/Caspase-9/3 Signaling Pathways. Journal of Cancer Education.
+- Jiarong Chen; **Jiaqi Wang**; Zheng Huang. Mechanisms of Lycium Barbarum Polysaccharide Inhibiting the Proliferation of Skin Squamous Cell Carcinoma A431 by Downregulating miR-365
+- **Jiaqi Chen**; Hao Tang. Exploring the clinical value of warming Yang, invigorating qi and activating blood circulation and TCM adjuvant therapy for primary hypothyroidism in Medical and Health
 
 #### Manuscripts
 
-Anti-neuronal apoptosis effect in the Auerbach’s plexus with acupuncture pretreatment at ST36 in the intestinal ischemia/reperfusion injury of rats
-
-### Projects
-
-TBD
-
-### Services
-
-TBD
+- Anti-neuronal apoptosis effect in the Auerbach’s plexus with acupuncture pretreatment at ST36 in the intestinal ischemia/reperfusion injury of rats
 
 ### Internships
 
