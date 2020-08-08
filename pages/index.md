@@ -42,11 +42,11 @@ I really want to contribute myself for improving the health of the elderly as we
 
   Main Duties: Making medical records;
 
-  Following the director to check the patients
+  ​                     Following the director to check the patients
 
-  Acting as the fourth assistant in the operation
+  ​                     Acting as the fourth assistant in the operation
 
-  Offering outpatient service
+  ​                     Offering outpatient service
 
 - 07-09/2018. Hubei Provincial Hospital of TCM.
 
