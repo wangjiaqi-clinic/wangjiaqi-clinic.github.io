@@ -42,7 +42,7 @@ I really want to contribute myself for improving the health of the elderly as we
 
   Main Duties: Making medical records;
 
-  ​                     Following the director to check the patients
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Following the director to check the patients
 
   ​                     Acting as the fourth assistant in the operation
 
