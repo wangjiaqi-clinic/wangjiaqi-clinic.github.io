@@ -29,60 +29,39 @@ I really want to contribute myself for improving the health of the elderly as we
 #### Publications
 
 - Jiarong Chen; **Jiaqi Wang**; Jingyi Qian. MBNL1 Suppressed Cancer Metastatic of Skin Squamous Cell Carcinoma via by TIAL1/MYOD1/Caspase-9/3 Signaling Pathways. Journal of Cancer Education.
-- Jiarong Chen; **Jiaqi Wang**; Zheng Huang. Mechanisms of Lycium Barbarum Polysaccharide Inhibiting the Proliferation of Skin Squamous Cell Carcinoma A431 by Downregulating miR-365
-- **Jiaqi Chen**; Hao Tang. Exploring the clinical value of warming Yang, invigorating qi and activating blood circulation and TCM adjuvant therapy for primary hypothyroidism in Medical and Health
+- Jiarong Chen; **Jiaqi Wang**; Zheng Huang. Mechanisms of Lycium Barbarum Polysaccharide Inhibiting the Proliferation of Skin Squamous Cell Carcinoma A431 by Downregulating miR-365.
+- **Jiaqi Chen**; Hao Tang. Exploring the clinical value of warming Yang, invigorating qi and activating blood circulation and TCM adjuvant therapy for primary hypothyroidism in Medical and Health.
 
 #### Manuscripts
 
-- Anti-neuronal apoptosis effect in the Auerbach’s plexus with acupuncture pretreatment at ST36 in the intestinal ischemia/reperfusion injury of rats
+- Anti-neuronal apoptosis effect in the Auerbach’s plexus with acupuncture pretreatment at ST36 in the intestinal ischemia/reperfusion injury of rats.
 
 ### Internships
 
-05/2019-05/2020
-Zhongnan Hospital of Wuhan University
-Main Duties:
-Making medical records
-Following the director to check the patients
-Acting as the fourth assistant in the operation
-Offering outpatient service
+- 05/2019-05/2020. Zhongnan Hospital of Wuhan University.
 
+  Main Duties: Making medical records; Following the director to check the patients; Acting as the fourth assistant in the operation; Offering outpatient service
 
-07-09/2018
-Hubei Provincial Hospital of TCM 
-Main Duties:
-Writing medical records
-Outpatient prescription
-Making the caniculaire sticker and following up the effect
-Following the teacher to do gastroenteroscopy
+- 07-09/2018. Hubei Provincial Hospital of TCM.
 
-01-02/2018
-Hubei Provincial Hospital of TCM (Thyroid Specialty) 
-Main Duties:
-Writing medical records
-Outpatient prescription
+  Main Duties: Writing medical records; Outpatient prescription; Making the caniculaire sticker and following up the effect; Following the teacher to do gastroenteroscopy
 
+- 01-02/2018: Hubei Provincial Hospital of TCM (Thyroid Specialty)
 
-07-09/2017
-Huazhong University of Science and Technology, Tongji Medical College, Affiliated Union Hospital
-Main Duties:
-Making medical records
-Following the director to check the patients
-Acting as the fourth assistant in the operation
-Offering outpatient service
+  Main Duties: Writing medical records; Outpatient prescription
 
+- 07-09/2017. Huazhong University of Science and Technology, Tongji Medical College, Affiliated Union Hospital.
+
+  Main Duties: Making medical records; Following the director to check the patients; Acting as the fourth assistant in the operation; Offering outpatient service
 
 ### Skills
 
 #### Languages
 
-Chinese(mother language)
-English(fluently)
-French(well)
-Japenese(starter)
-
-### Hobbies
-
-TBD
+- Chinese (mother language)
+- English (fluently)
+- French (well)
+- Japenese (starter)
 
 <!-- ### Social
 
