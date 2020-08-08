@@ -9,7 +9,7 @@ permalink: /
 
 ### About Me
 
-I am a master student majoring in Nutrition and Healthy Aging at HongKong Polytechnic University. 
+I am a master student majoring in Nutrition and Healthy Aging at Hong Kong Polytechnic University. 
 The reseaech about the impact of risk factors for Alzheimer’s Disease attracted me most among all medicine subjects. 
 I really want to contribute myself for improving the health of the elderly as well as declining the incidence of neurodegeneration diseases.
 
@@ -21,10 +21,9 @@ I really want to contribute myself for improving the health of the elderly as we
 
 ### Education
 
-- 08/2020-06/2021  The HongKong Polytechnic University
-                   Master of Science
-                   Nutrition and Healthy Aging                               
+- 08/2020-06/2021. The Hong Kong Polytechnic University. Master of Science. Nutrition and Healthy Aging                               
 - 09/2015-06/2020
+
   Hubei University of Chinese Medicine
                    First Clinical College
                    Bachelor of medicine
