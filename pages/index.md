@@ -20,7 +20,8 @@ Academically, I have completed comprehensive training in clincal medicine; surge
 
 ### Education
 
-- 08/2020-06/2021. The Hong Kong Polytechnic University. Master of Science. Nutrition and Healthy Aging                               
+- 08/2020-06/2021. The Hong Kong Polytechnic University. Master of Science. Nutrition and Healthy Aging
+- 07/2018-08/2018. University of Cambridge. Sidney Sussex College. Undergraduate Summer School Education
 - 09/2015-06/2020. Hubei University of Chinese Medicine. First Clinical College. Bachelor of Medicine. Clinical Discipline of Chinese and Western Integrative Medicine. GPA Ranking Top 5% among 319 students
 
 ### Publications & Manuscripts
