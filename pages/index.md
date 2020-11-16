@@ -9,14 +9,13 @@ permalink: /
 
 ### About Me
 
-I am a master student majoring in Nutrition and Healthy Aging at Hong Kong Polytechnic University. 
-The reseaech about the impact of risk factors for Alzheimer’s Disease attracted me most among all medicine subjects. 
-I really want to contribute myself for improving the health of the elderly as well as declining the incidence of neurodegeneration diseases.
-
+I am Wang jiaqi Adora, one of the postgraduate students in Hong Kong Polytechnic University majoring in Nutrition and Healthy Aging. I am interested in healthy aging and behavioral sciences,The interdisciplinary field in which healthy aging and nutritional science overlap fascinate me with its significant role in our lives. Aspiring to bring safe, healthy, and longevity lifestyle from person to society, I feel motivated to get fully trained to become a researcher or technician in healthy aging and relevant discipline. It is exciting for me to discover that the program goal and missions of the gerontology overlap with my career goal and academic passion. 
+Academically, I have completed comprehensive training in clincal medicine; surgery; rehabilitation medicine; molecular cell biology, organic chemistry, nutritional food sciences, and psychology through coursework, projects, and labs. Now I am searching for a Ph.D. degree, please feel free to contact me at jiaqiwangclinic@gmail.com
 ### Research Interests
 
 - Nutrition
-- Healthy Aging
+- Healthy Aging/Gerontology
+- Behavioural Sciences
 - Neuroscience (especially Alzheimer's disease)
 
 ### Education
@@ -28,9 +27,9 @@ I really want to contribute myself for improving the health of the elderly as we
 
 #### Publications
 
-- Jiarong Chen; **Jiaqi Wang**; Jingyi Qian. MBNL1 Suppressed Cancer Metastatic of Skin Squamous Cell Carcinoma via by TIAL1/MYOD1/Caspase-9/3 Signaling Pathways. Journal of Cancer Education.
-- Jiarong Chen; **Jiaqi Wang**; Zheng Huang. Mechanisms of Lycium Barbarum Polysaccharide Inhibiting the Proliferation of Skin Squamous Cell Carcinoma A431 by Downregulating miR-365.
-- **Jiaqi Chen**; Hao Tang. Exploring the clinical value of warming Yang, invigorating qi and activating blood circulation and TCM adjuvant therapy for primary hypothyroidism in Medical and Health.
+- Jiarong Chen; **Jiaqi Wang**; Jingyi Qian. MBNL1 Suppressed Cancer Metastatic of Skin Squamous Cell Carcinoma via by TIAL1/MYOD1/Caspase-9/3 Signaling Pathways. Technology in Cancer Research and Treatment.DOI:10.1177 / 1533033820960755.
+- Jiarong Chen; **Jiaqi Wang**; Zheng Huang. Mechanisms of Lycium Barbarum Polysaccharide Inhibiting the Proliferation of Skin Squamous Cell Carcinoma A431 by Downregulating miR-365. Medical & Pharmaceutical Journal of Chinese People's Liberation Army. DOI： 10.3969/j.issn.2095-140X.2020.09.001
+- **Jiaqi Chen**; Hao Tang. Exploring the clinical value of warming Yang, invigorating qi and activating blood circulation and TCM adjuvant therapy for primary hypothyroidism in Medical and Health.DOI:1671-5675(2019)1-0213-02
 
 #### Manuscripts
 
