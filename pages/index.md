@@ -30,7 +30,7 @@ Academically, I have completed comprehensive training in clincal medicine; surge
 
 - Jiarong Chen; **Jiaqi Wang**; Jingyi Qian. MBNL1 Suppressed Cancer Metastatic of Skin Squamous Cell Carcinoma via by TIAL1/MYOD1/Caspase-9/3 Signaling Pathways. Technology in Cancer Research and Treatment.DOI:10.1177 / 1533033820960755.
 - Jiarong Chen; **Jiaqi Wang**; Zheng Huang. Mechanisms of Lycium Barbarum Polysaccharide Inhibiting the Proliferation of Skin Squamous Cell Carcinoma A431 by Downregulating miR-365. Medical & Pharmaceutical Journal of Chinese People's Liberation Army. DOI： 10.3969/j.issn.2095-140X.2020.09.001
-- **Jiaqi Chen**; Hao Tang. Exploring the clinical value of warming Yang, invigorating qi and activating blood circulation and TCM adjuvant therapy for primary hypothyroidism in Medical and Health.DOI:1671-5675(2019)1-0213-02
+- **Jiaqi Wang**; Hao Tang. Exploring the clinical value of warming Yang, invigorating qi and activating blood circulation and TCM adjuvant therapy for primary hypothyroidism in Medical and Health.DOI:1671-5675(2019)1-0213-02
 
 #### Manuscripts
 
